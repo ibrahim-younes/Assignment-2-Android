@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="leo_messi">Leo Messi</string>
+    <string name="argentine">Argentine</string>
+    <string name="nationality">Nationality :</string>
+    <string name="age">Age :</string>
+    <string name="_36">36</string>
+    <string name="todo">TODO</string>
+    <string name="contract_until">Contract Until :</string>
+    <string name="_2025">2025</string>
+    <string name="barcelona_club">Barcelona Club</string>
+    <string name="date_of_birth">Date Of Birth :</string>
+</resources>
